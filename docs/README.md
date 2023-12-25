@@ -1,6 +1,6 @@
 # 欢迎来到中转站🙂
 
-![](https://cdn.jsdelivr.net/gh/A5yncX/img/images/202312131020164.png)
+![](https://img.asyncx.top/images/202312131020164.png)
 
 !> 2023.12.12更新
 
