@@ -245,7 +245,7 @@ main.hidden {
   color: inherit;
   text-decoration: none;
   font-weight: 600;
-  color: #ee81c3;
+  color: #9fdfff;
 }
 .sidebar > h1 .app-nav {
   display: block;
@@ -265,7 +265,7 @@ main.hidden {
 .sidebar li > p {
   font-weight: 700;
   margin: 0;
-  color: #ee81c3;
+  color: #9fdfff;
 }
 .sidebar ul,
 .sidebar ul li {
@@ -649,7 +649,7 @@ body {
   font-weight: 600;
 }
 .markdown-section a {
-  color: #ee81c3;
+  color: #9fdfff;
   font-weight: 600;
 }
 .markdown-section h1 {
@@ -747,7 +747,7 @@ body {
   color: #f3fa9a;
 }
 .token.tag {
-  color: #ee81c3;
+  color: #9fdfff;
 }
 .token.string {
   color: var(--theme-color, #b695f3);
@@ -756,7 +756,7 @@ body {
   color: #6679cc;
 }
 .token.attr-name {
-  color: #ee81c3;
+  color: #9fdfff;
 }
 .language-css .token.string,
 .style .token.string,
